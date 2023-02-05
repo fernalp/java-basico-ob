@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ef4d392-f860-4d8c-8dfd-c1a9f4944aef" name="Changes" comment="Resolución de ejercicio número 1 de Java Básico de Open Bootcamp">
-      <change afterPath="$PROJECT_DIR$/src/com/openbootcamp/ejercicio2/Funciones.java" afterDir="false" />
+    <list default="true" id="7ef4d392-f860-4d8c-8dfd-c1a9f4944aef" name="Changes" comment="Resolución de ejercicio número 3 de Java Básico de Open Bootcamp">
+      <change afterPath="$PROJECT_DIR$/src/com/openbootcamp/ejercicio3/Bucle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +48,7 @@
       <updated>1675568060092</updated>
       <workItem from="1675568061609" duration="1113000" />
       <workItem from="1675619737469" duration="91000" />
-      <workItem from="1675619840328" duration="777000" />
+      <workItem from="1675619840328" duration="2036000" />
     </task>
     <task id="LOCAL-00001" summary="Resolución de ejercicio número 1 de Java Básico de Open Bootcamp">
       <created>1675568545554</created>
@@ -57,7 +57,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675568545554</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Resolución de ejercicio número 2 de Java Básico de Open Bootcamp">
+      <created>1675620660257</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675620660257</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -76,6 +83,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Resolución de ejercicio número 1 de Java Básico de Open Bootcamp" />
-    <option name="LAST_COMMIT_MESSAGE" value="Resolución de ejercicio número 1 de Java Básico de Open Bootcamp" />
+    <MESSAGE value="Resolución de ejercicio número 2 de Java Básico de Open Bootcamp" />
+    <MESSAGE value="Resolución de ejercicio número 3 de Java Básico de Open Bootcamp" />
+    <option name="LAST_COMMIT_MESSAGE" value="Resolución de ejercicio número 3 de Java Básico de Open Bootcamp" />
   </component>
 </project>
