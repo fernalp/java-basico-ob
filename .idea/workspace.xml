@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ef4d392-f860-4d8c-8dfd-c1a9f4944aef" name="Changes" comment="Resolución de ejercicio número 4 de Java Básico de Open Bootcamp">
-      <change afterPath="$PROJECT_DIR$/src/com/openbootcamp/ejercicio5/Coche.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/openbootcamp/ejercicio5/CocheCRUD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/openbootcamp/ejercicio5/CocheCRUDImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/openbootcamp/ejercicio5/Main.java" afterDir="false" />
+    <list default="true" id="7ef4d392-f860-4d8c-8dfd-c1a9f4944aef" name="Changes" comment="Resolución de ejercicio número 5 de Java Básico de Open Bootcamp">
+      <change afterPath="$PROJECT_DIR$/src/com/openbootcamp/ejercicio6/StringReverse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,16 +30,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Equipo 1/IdeaProjects/java-basico-ob",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Equipo 1/IdeaProjects/java-basico-ob&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mariadb&quot;,
+      &quot;java.sql.Driver&quot;
+    ]
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -53,7 +56,11 @@
       <updated>1675568060092</updated>
       <workItem from="1675568061609" duration="1113000" />
       <workItem from="1675619737469" duration="91000" />
-      <workItem from="1675619840328" duration="7149000" />
+      <workItem from="1675619840328" duration="8709000" />
+      <workItem from="1675636509033" duration="306000" />
+      <workItem from="1675636832729" duration="343000" />
+      <workItem from="1675706516083" duration="1203000" />
+      <workItem from="1675735411019" duration="1179000" />
     </task>
     <task id="LOCAL-00001" summary="Resolución de ejercicio número 1 de Java Básico de Open Bootcamp">
       <created>1675568545554</created>
@@ -83,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675628780544</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Resolución de ejercicio número 5 de Java Básico de Open Bootcamp">
+      <created>1675633350958</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1675633350958</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,6 +119,7 @@
     <MESSAGE value="Resolución de ejercicio número 2 de Java Básico de Open Bootcamp" />
     <MESSAGE value="Resolución de ejercicio número 3 de Java Básico de Open Bootcamp" />
     <MESSAGE value="Resolución de ejercicio número 4 de Java Básico de Open Bootcamp" />
-    <option name="LAST_COMMIT_MESSAGE" value="Resolución de ejercicio número 4 de Java Básico de Open Bootcamp" />
+    <MESSAGE value="Resolución de ejercicio número 5 de Java Básico de Open Bootcamp" />
+    <option name="LAST_COMMIT_MESSAGE" value="Resolución de ejercicio número 5 de Java Básico de Open Bootcamp" />
   </component>
 </project>
