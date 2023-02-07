@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ef4d392-f860-4d8c-8dfd-c1a9f4944aef" name="Changes" comment="Resolución de ejercicio número 5 de Java Básico de Open Bootcamp">
-      <change afterPath="$PROJECT_DIR$/src/com/openbootcamp/ejercicio6/StringReverse.java" afterDir="false" />
+    <list default="true" id="7ef4d392-f860-4d8c-8dfd-c1a9f4944aef" name="Changes" comment="Resolución de ejercicio número 6 de Java Básico de Open Bootcamp">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/openbootcamp/ejercicio6/StringReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/openbootcamp/ejercicio6/StringReverse.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +60,7 @@
       <workItem from="1675636509033" duration="306000" />
       <workItem from="1675636832729" duration="343000" />
       <workItem from="1675706516083" duration="1203000" />
-      <workItem from="1675735411019" duration="1179000" />
+      <workItem from="1675735411019" duration="3683000" />
     </task>
     <task id="LOCAL-00001" summary="Resolución de ejercicio número 1 de Java Básico de Open Bootcamp">
       <created>1675568545554</created>
@@ -97,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675633350958</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Resolución de ejercicio número 6 de Java Básico de Open Bootcamp">
+      <created>1675736636822</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1675736636822</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,6 +127,7 @@
     <MESSAGE value="Resolución de ejercicio número 3 de Java Básico de Open Bootcamp" />
     <MESSAGE value="Resolución de ejercicio número 4 de Java Básico de Open Bootcamp" />
     <MESSAGE value="Resolución de ejercicio número 5 de Java Básico de Open Bootcamp" />
-    <option name="LAST_COMMIT_MESSAGE" value="Resolución de ejercicio número 5 de Java Básico de Open Bootcamp" />
+    <MESSAGE value="Resolución de ejercicio número 6 de Java Básico de Open Bootcamp" />
+    <option name="LAST_COMMIT_MESSAGE" value="Resolución de ejercicio número 6 de Java Básico de Open Bootcamp" />
   </component>
 </project>
