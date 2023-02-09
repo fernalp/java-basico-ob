@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ef4d392-f860-4d8c-8dfd-c1a9f4944aef" name="Changes" comment="Resolución de ejercicio para sesiones 7,8 y 9 de Java Básico de Open Bootcamp.">
-      <change afterPath="$PROJECT_DIR$/src/com/openbootcamp/ejercicio6/ArrayBidimensional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/openbootcamp/ejercicio6/ArrayUnidimensional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/openbootcamp/ejercicio6/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/openbootcamp/ejercicio6/RecorrerArray.java" afterDir="false" />
+    <list default="true" id="7ef4d392-f860-4d8c-8dfd-c1a9f4944aef" name="Changes" comment="Resolución parcial de ejercicio para sesiones 7,8 y 9 de Java Básico de Open Bootcamp.">
+      <change afterPath="$PROJECT_DIR$/src/com/openbootcamp/ejercicio6/FuncionesAritmeticas.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/openbootcamp/ejercicio6/StringReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/openbootcamp/ejercicio6/StringReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/openbootcamp/ejercicio6/ArrayBidimensional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/openbootcamp/ejercicio6/ArrayBidimensional.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/openbootcamp/ejercicio6/ArrayUnidimensional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/openbootcamp/ejercicio6/ArrayUnidimensional.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/openbootcamp/ejercicio6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/openbootcamp/ejercicio6/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -89,7 +88,8 @@
       <workItem from="1675706516083" duration="1203000" />
       <workItem from="1675735411019" duration="4365000" />
       <workItem from="1675822265214" duration="1486000" />
-      <workItem from="1675824331563" duration="4011000" />
+      <workItem from="1675824331563" duration="4079000" />
+      <workItem from="1675859867605" duration="7921000" />
     </task>
     <task id="LOCAL-00001" summary="Resolución de ejercicio número 1 de Java Básico de Open Bootcamp">
       <created>1675568545554</created>
@@ -140,7 +140,21 @@
       <option name="project" value="LOCAL" />
       <updated>1675782597196</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Resolución de ejercicio para sesiones 7,8 y 9 de Java Básico de Open Bootcamp.">
+      <created>1675828663184</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1675828663184</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Resolución parcial de ejercicio para sesiones 7,8 y 9 de Java Básico de Open Bootcamp.">
+      <created>1675859932255</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1675859932255</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -166,6 +180,7 @@
     <MESSAGE value="Resolución de ejercicio número 6 de Java Básico de Open Bootcamp" />
     <MESSAGE value="Resolución de ejercicio número 6 de Java Básico de Open Bootcamp utilizando otro método y se deja comentado" />
     <MESSAGE value="Resolución de ejercicio para sesiones 7,8 y 9 de Java Básico de Open Bootcamp." />
-    <option name="LAST_COMMIT_MESSAGE" value="Resolución de ejercicio para sesiones 7,8 y 9 de Java Básico de Open Bootcamp." />
+    <MESSAGE value="Resolución parcial de ejercicio para sesiones 7,8 y 9 de Java Básico de Open Bootcamp." />
+    <option name="LAST_COMMIT_MESSAGE" value="Resolución parcial de ejercicio para sesiones 7,8 y 9 de Java Básico de Open Bootcamp." />
   </component>
 </project>
